@@ -1,0 +1,88 @@
+html, body {
+    height: 100%;
+}
+
+.fa-mug-saucer {
+    font-size: 24px;
+    color: #fd7e14;
+    padding-right: 10px;
+}
+
+#background1 {
+    background: url(/css/Bootstrap2/assets/backgrounds/background1.jpg);
+    background-size: cover;
+    background-position: 50% 10%;
+    height: 100%;
+    width: 100%;
+    padding-top: 250px;
+}
+
+#background2 {
+    background-image: url(/css/Bootstrap2/assets/backgrounds/background2.jpg);
+    background-size: cover;
+    background-position: bottom;
+    width: 100%;
+    height: 100%;
+    padding-top: 250px;
+}
+
+#background3 {
+    background-image: url(/css/Bootstrap2/assets/backgrounds/background3.jpg);
+    background-size: cover;
+    background-position: top;
+    width: 100%;
+    height: 100%;
+    padding-top: 250px;
+}
+
+.section {
+    padding: 112px 0;
+    overflow: hidden;
+}
+
+.middle {
+    background: #262f36;
+    color: white;
+}
+
+.middle h2 {
+    color: #cfd8dc;
+}
+
+#message {
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+}
+
+#message h1 {
+    font-size: 54px;
+    color: white;
+    font-weight: bold;
+    -webkit-text-stroke: 2px black;
+}
+
+#footer {
+    background-color: black;
+    padding: 50px 0;
+    color: green !important;
+}
+
+h6 {
+    color: #1e88e5;
+    font-size: 20px;
+}
+
+footer a {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+.footericon {
+    font-size: 100px;
+}
+
+.sectiontitle {
+    color: #808080;
+}
